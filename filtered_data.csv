@@ -1,0 +1,194 @@
+name,year, emission 
+Afghanistan,2014,  9.8012 
+Albania,2014,  5.2155 
+Algeria,2014,  140.6704 
+Andorra,2014,  0.4617 
+Angola,2014,  33.2924 
+Antigua & Barbuda,2014,  0.5313 
+Argentina,2014,  199.7888 
+Armenia,2014,  5.4325 
+Australia,2014,  378.8118 
+Austria,2014,  62.9711 
+Azerbaijan,2014,  33.1490 
+Bahamas,2014,  2.4109 
+Bahrain,2014,  30.4375 
+Bangladesh,2014,  70.7412 
+Barbados,2014,  1.2859 
+Belarus,2014,  60.2293 
+Belgium,2014,  90.4011 
+Belize,2014,  0.4946 
+Benin,2014,  6.4362 
+Bhutan,2014,  1.0039 
+Bolivia,2014,  20.4270 
+Bosnia & Herzegovina,2014,  22.0377 
+Botswana,2014,  7.0632 
+Brazil,2014,  514.4820 
+Brunei,2014,  7.1494 
+Bulgaria,2014,  43.0533 
+Burkina Faso,2014,  2.8469 
+Burundi,2014,  0.4397 
+Cambodia,2014,  6.7962 
+Cameroon,2014,  7.9468 
+Canada,2014,  564.3864 
+Cape Verde,2014,  0.4910 
+Central African Republic,2014,  0.3004 
+Chad,2014,  0.7291 
+Chile,2014,  78.3471 
+China,2014,"  10,328.7336 "
+Colombia,2014,  79.9831 
+Comoros,2014,  0.1539 
+Congo,2014,  4.1291 
+"Congo, Dem. Republic",2014,  4.8249 
+Cook Islands,2014,  0.0696 
+Costa Rica,2014,  7.9175 
+Cote d'Ivoire,2014,  10.6471 
+Croatia,2014,  16.3088 
+Cuba,2014,  30.2895 
+Cyprus,2014,  6.1264 
+Czech Republic,2014,  98.3893 
+Denmark,2014,  35.6084 
+Djibouti,2014,  0.7218 
+Dominica,2014,  0.1356 
+Dominican Republic,2014,  21.6526 
+Ecuador,2014,  43.2238 
+Egypt,2014,  200.2581 
+El Salvador,2014,  6.3783 
+Equatorial Guinea,2014,  5.0322 
+Eritrea,2014,  0.7102 
+Estonia,2014,  17.7435 
+Ethiopia,2014,  11.8194 
+European Union (28),2014,"  3,246.9937 "
+Fiji,2014,  1.1688 
+Finland,2014,  45.8729 
+France,2014,  294.1512 
+Gabon,2014,  5.7625 
+Gambia,2014,  0.5093 
+Georgia,2014,  8.5297 
+Germany,2014,  740.7404 
+Ghana,2014,  14.7143 
+Greece,2014,  68.4338 
+Grenada,2014,  0.2418 
+Guatemala,2014,  17.8841 
+Guinea,2014,  2.4439 
+Guinea-Bissau,2014,  0.2711 
+Guyana,2014,  2.0079 
+Haiti,2014,  2.9102 
+Honduras,2014,  9.5964 
+Hungary,2014,  41.3296 
+Iceland,2014,  2.0400 
+India,2014,"  2,158.1807 "
+Indonesia,2014,  477.7406 
+Iran,2014,  617.4255 
+Iraq,2014,  170.9224 
+Ireland,2014,  34.8566 
+Israel,2014,  68.0340 
+Italy,2014,  330.3722 
+Jamaica,2014,  7.5840 
+Japan,2014,"  1,217.4877 "
+Jordan,2014,  26.3524 
+Kazakhstan,2014,  231.8231 
+Kenya,2014,  15.1310 
+Kiribati,2014,  0.0623 
+Korea (North),2014,  41.3871 
+Korea (South),2014,  591.2559 
+Kuwait,2014,  88.3572 
+Kyrgyzstan,2014,  9.2210 
+Laos,2014,  1.9492 
+Latvia,2014,  7.3172 
+Lebanon,2014,  25.1180 
+Lesotho,2014,  2.4695 
+Liberia,2014,  0.9343 
+Libya,2014,  57.0479 
+Liechtenstein,2014,  0.0440 
+Lithuania,2014,  10.7607 
+Luxembourg,2014,  9.7996 
+"Macedonia, FYR",2014,  7.7708 
+Madagascar,2014,  3.0704 
+Malawi,2014,  1.2751 
+Malaysia,2014,  233.5068 
+Maldives,2014,  1.3337 
+Mali,2014,  1.4106 
+Malta,2014,  2.3400 
+Marshall Islands,2014,  0.1026 
+Mauritania,2014,  2.7077 
+Mauritius,2014,  3.9600 
+Mexico,2014,  454.2143 
+Micronesia,2014,  0.1502 
+Moldova,2014,  7.8985 
+Mongolia,2014,  18.3652 
+Montenegro,2014,  2.2200 
+Morocco,2014,  60.9400 
+Mozambique,2014,  4.6175 
+Myanmar,2014,  20.2159 
+Namibia,2014,  3.9527 
+Nauru,2014,  0.0476 
+Nepal,2014,  7.4762 
+Netherlands,2014,  149.4460 
+New Zealand,2014,  31.8990 
+Nicaragua,2014,  4.8881 
+Niger,2014,  1.9710 
+Nigeria,2014,  89.6564 
+Niue,2014,  0.0110 
+Norway,2014,  36.7035 
+Oman,2014,  65.1816 
+Pakistan,2014,  153.5398 
+Palau,2014,  0.2601 
+Panama,2014,  11.6819 
+Papua New Guinea,2014,  6.3094 
+Paraguay,2014,  5.6883 
+Peru,2014,  53.6025 
+Philippines,2014,  106.9462 
+Poland,2014,  286.7154 
+Portugal,2014,  45.5507 
+Qatar,2014,  81.9675 
+Romania,2014,  72.0951 
+Russian Federation,2014,"  1,530.5909 "
+Rwanda,2014,  0.8391 
+Saint Kitts & Nevis,2014,  0.2308 
+Saint Lucia,2014,  0.4067 
+Saint Vincent & Grenadines,2014,  0.2088 
+Samoa,2014,  0.1979 
+Sao Tome & Principe,2014,  0.1136 
+Saudi Arabia,2014,  535.1215 
+Senegal,2014,  8.7202 
+Serbia,2014,  39.2239 
+Seychelles,2014,  0.4946 
+Sierra Leone,2014,  1.3080 
+Singapore,2014,  45.3200 
+Slovakia,2014,  30.9934 
+Slovenia,2014,  13.4195 
+Solomon Islands,2014,  0.2015 
+Somalia,2014,  0.6082 
+South Africa,2014,  443.4957 
+Spain,2014,  239.2594 
+Sri Lanka,2014,  17.6780 
+Sudan,2014,  13.3400 
+Suriname,2014,  2.0560 
+Swaziland,2014,  1.2018 
+Sweden,2014,  38.6658 
+Switzerland,2014,  39.8761 
+Syria,2014,  29.9019 
+Tajikistan,2014,  5.2316 
+Tanzania,2014,  11.7696 
+Thailand,2014,  261.0591 
+Togo,2014,  2.5554 
+Tonga,2014,  0.1209 
+Trinidad & Tobago,2014,  24.0106 
+Tunisia,2014,  29.7211 
+Turkey,2014,  342.6563 
+Turkmenistan,2014,  69.8113 
+Tuvalu,2014,  0.0110 
+Uganda,2014,  5.2285 
+Ukraine,2014,  241.3398 
+United Arab Emirates,2014,  185.2629 
+United Kingdom,2014,  414.2722 
+United States of America,2014,"  5,234.2406 "
+Uruguay,2014,  6.6804 
+Uzbekistan,2014,  101.5640 
+Vanuatu,2014,  0.1539 
+Venezuela,2014,  188.4086 
+Vietnam,2014,  174.5552 
+World,2014,"  34,701.3739 "
+Yemen,2014,  24.2678 
+Zambia,2014,  4.2855 
+Zimbabwe,2014,  12.1385 
